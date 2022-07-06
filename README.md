@@ -27,5 +27,4 @@ A search for a specific file type “*.pdf” was performed through the web UI a
 <img src="https://media-exp1.licdn.com/dms/image/C5622AQF9lbX3ClNm_Q/feedshare-shrink_2048_1536/0/1657017067759?e=1660176000&v=beta&t=e2jsQ_pivZXWi9c3NyECKZ32BZWXeOxvgoI_bV2aFOA" height="85%" width="85%" alt=""/>
 
 Credits:
-1. "Introduction to Linux - Assignment: Designing Document Management System." Study.com. September 24, 2019. https://study.com/academy/lesson/introduction-to-linux-assignment-designing-document-management-system.html.
-2. "Index Storage - - Recoll user manual" lesbonscomptes.com. June 14, 2022. https://www.lesbonscomptes.com/recoll/usermanual/webhelp/docs/RCL.INDEXING.STORAGE.html
+1. "Index Storage - - Recoll user manual" lesbonscomptes.com. June 14, 2022. https://www.lesbonscomptes.com/recoll/usermanual/webhelp/docs/RCL.INDEXING.STORAGE.html
